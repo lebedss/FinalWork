@@ -24,8 +24,7 @@ string[] GetArrayAfterApplyingCondition(string[] anyArray)
     int resultPosition = 0;
     for (int i = 0; i < anyArray.Length; i++)
     {
-        tempArray[resultPosition] = anyArray[i].Length <= 3 ? anyArray[i] : string.Empty;
-        resultPosition++;
+        tempArray[resultPosition++] = anyArray[i].Length <= 3 ? anyArray[i] : string.Empty;
     }
     return tempArray;
 }
