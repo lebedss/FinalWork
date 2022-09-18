@@ -27,4 +27,4 @@
 
 *Графическое представление решения задачи в виде блок-схемы в папке MyTask* [тык тут](MyDiagram/GetArrayAfterApplyingCondition.png)
 
-*Реализация алгоритма на C# в папке MyDiagram*[тык тут](MyTask/Program.cs)
+*Реализация алгоритма на C# в папке MyDiagram* [тык тут](MyTask/Program.cs)
